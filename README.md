@@ -2,9 +2,9 @@
 [<img align="left" alt="LinkedIn" width="26px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/linkedin.svg"/>](https://www.linkedin.com/in/fahadniz/)<br>
 
 <p align="center">
-    <img src="https://github.com/FahadNiz.png" alt="FahadNiz" style="width:150px; height:150px; border-radius:50%; border: 2px solid #fff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);" />
+    <img src="https://github.com/blood-neko.png" alt="blood-neko" style="width:150px; height:150px; border-radius:50%; border: 2px solid #fff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);" />
 </p>
-<h1 align="center">Fahad Nizar</h1>
+<h1 align="center">BloodNeko</h1>
 
 <h3 align="center">Languages, Tools and Frameworks</h3>
 <p align="center">
@@ -24,8 +24,8 @@
 
 <h3 align="center">Statistics</h3>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=FahadNiz&show_icons=true&theme=dark" alt="FahadNiz" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=blood-neko&show_icons=true&theme=dark" alt="blood-neko" />
 </p>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadniz&show_icons=true&layout=compact" alt="FahadNiz" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=blood-neko&show_icons=true&layout=compact" alt="blood-neko" />
 </p>
