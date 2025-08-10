@@ -1,5 +1,5 @@
 [<img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/discord.svg"/>](https://discord.gg/NHrYpm3G9g)
-[<img align="left" alt="LinkedIn" width="26px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/linkedin.svg"/>](https://www.linkedin.com/in/fahadniz/)<br>
+<br>
 
 <p align="center">
     <img src="https://github.com/blood-neko.png" alt="blood-neko" style="width:150px; height:150px; border-radius:50%; border: 2px solid #fff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);" />
